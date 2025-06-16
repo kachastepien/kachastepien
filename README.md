@@ -1,8 +1,3 @@
-Hi, I'm Kacha 👋  
-Designer who codes. I mix clean UI with smart AI to create tools that actually help people.
-
-**Languages & Tools:**  
-Figma · Python · Gradio · OpenAI API · ElevenLabs · HTML · CSS · Git
 
 ![Banner](banner.png)
 
