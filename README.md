@@ -1,7 +1,7 @@
 
 [![Kacha Banner](banner.png)](https://www.kachastepien.com)
 
-[![Kacha Banner](banner_github.png)]
+![Kacha Banner](banner_github.png)
 
 
 <p align = "center">
