@@ -1,5 +1,5 @@
-![Kacha Banner](top.png)
+![Kacha Banner](top.jpg)
 ![Kacha Banner](contents_github.jpg)
-![Kacha Banner](down.png)
+![Kacha Banner](down.jpg)
 
 
