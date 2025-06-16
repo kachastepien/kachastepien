@@ -4,6 +4,7 @@ Designer who codes. I mix clean UI with smart AI to create tools that actually h
 **Languages & Tools:**  
 Figma · Python · Gradio · OpenAI API · ElevenLabs · HTML · CSS · Git
 
+![Banner](banner.png)
 
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
