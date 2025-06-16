@@ -1,2 +1,2 @@
 
-![Kacha Banner](banner_github.png)
+![Kacha Banner](contents_github.png)
