@@ -27,7 +27,7 @@ Product designer (UX/UI) and data scientist in Warsaw. I'm the sole designer at 
 ### Experience
 
 - **UX/UI Designer & Researcher**, SiDLY Healthcare · Dec 2023 – present
-- **Chatbot Developer Intern**, PerfectBot · Mar – May 2025 (conversational AI for IKEA, LPP, x-kom)
+- **Chatbot Developer Intern**, PerfectBot · Mar – Jun 2025 (conversational AI for IKEA, LPP, x-kom)
 - **UX/UI Design Intern**, SiDLY · Oct – Dec 2023
 
 ### Education
