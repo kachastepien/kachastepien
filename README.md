@@ -1,4 +1,3 @@
-<a href="https://kachastepien.com"><img src="top.jpg" width="100%" alt="Hey, I'm Kacha. I design digital tools that help people when it matters most."></a>
 
 # Katarzyna Stępień
 
@@ -42,4 +41,3 @@ Product designer (UX/UI) and data scientist in Warsaw. I'm the sole designer at 
 
 Figma · Maze · Spline · React · TypeScript · Python · pandas · scikit-learn · n8n · Langflow · Kafka · Spark · SQL · DuckDB · Flutter
 
-<a href="https://kachastepien.com/#contact"><img src="down.jpg" width="100%" alt="Let's design tech that matters. Get in touch."></a>
