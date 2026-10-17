@@ -3,7 +3,7 @@
 
 Product designer (UX/UI) and data scientist in Warsaw. I'm the sole designer at **SiDLY Healthcare**, where I take telecare products from research to coded prototypes, and I build NLP models and data pipelines for the human side of products.
 
-**Portfolio: [kachastepien.com](https://kachastepien.com)** · [LinkedIn](https://www.linkedin.com/in/kachastepien) · [Email](mailto:trafficjam027@gmail.com)
+**Portfolio: [kachastepien.com](https://kachastepien.com)** · [LinkedIn](https://www.linkedin.com/in/kachastepien) · [Email](mailto:hello@kachastepien.com)
 
 ### Product design
 
