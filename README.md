@@ -11,7 +11,7 @@ Product designer (UX/UI) and data scientist in Warsaw. I'm the sole designer at 
 |---|---|
 | **[SiDLY Health](https://kachastepien.com/work/sidly-health/)** | Mobile and web apps that connect care managers, carers and residents around one visit. Lead UX/UI. |
 | **[SiDLY ERP redesign](https://kachastepien.com/work/sidly-erp/)** | The platform 1,000+ municipalities and care providers use to run public telecare. |
-| **[GovBot](https://kachastepien.com/#ai)** · 1st place, AI Place Challenge 2025 | Led the team and built the AI part in n8n of an AI chatbot for mObywatel that cuts through the bureaucracy. Challenge set by the Polish Ministry of Digital Affairs. |
+| **[GovBot](https://kachastepien.com/#ai)** · 1st place, AI Place Challenge 2025 | An AI chatbot for mObywatel that cuts through the bureaucracy. I led the team and built the AI part in n8n. Challenge set by the Polish Ministry of Digital Affairs. |
 | **[Lemi](https://kachastepien.com/work/lemi/)** · HackYeah 2026 | A health guide that turns a recorded doctor's visit into three plain-language summaries. Claude API and ElevenLabs. |
 
 ### Data science
